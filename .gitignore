@@ -1,0 +1,8 @@
+.gradle/
+**/build/
+.idea/
+*.iml
+html/war/
+.DS_Store
+downloads/
+assets/OBS-Studio-32.0.4-Windows-x64-Installer.exe
